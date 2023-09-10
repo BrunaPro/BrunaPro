@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Bruna Fernanda 
 
 [![Likedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-silva-pro/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvabruna.pro)
 
 
 ![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunapro&show_icons=true&theme=dracula)
