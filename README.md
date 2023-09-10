@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Bruna Silva
+### Hi there 👋 My name is Bruna Fernanda 
 
 [![Likedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-silva-pro/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvabruna.pro@gmail.com)
