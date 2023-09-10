@@ -1,7 +1,8 @@
 ### Hi there 👋 My name is Bruna Fernanda 
-
+#You can contact me via my email:[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvabruna.pro@gmail.com)  silvabruna.pro@gmail.com or
 [![Likedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-silva-pro/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silvabruna.pro@gmail.com)
+#Brazilian living in Toronto
+#Programming student.
 
 
 ![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunapro&show_icons=true&theme=dracula)
